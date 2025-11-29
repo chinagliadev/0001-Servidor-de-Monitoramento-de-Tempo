@@ -1,0 +1,27 @@
+{
+  "name": "0001-servidor-de-monitoramento-de-tempo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinagliadev/0001-Servidor-de-Monitoramento-de-Tempo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chinagliadev/0001-Servidor-de-Monitoramento-de-Tempo/issues"
+  },
+  "homepage": "https://github.com/chinagliadev/0001-Servidor-de-Monitoramento-de-Tempo#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
